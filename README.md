@@ -2,6 +2,8 @@
 
 <!--
 **isabelcruz816/isabelcruz816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 
 I'm Isabel. I'm a Computer Science student who is passionate about creating technology to elevate quality of life, and building community.
 
@@ -16,4 +18,3 @@ I'm Isabel. I'm a Computer Science student who is passionate about creating tech
 </p>
 
 
--->
