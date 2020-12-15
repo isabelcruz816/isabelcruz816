@@ -14,7 +14,7 @@ I'm Isabel. I'm a Computer Science student who is passionate about creating tech
 - 😄 Pronouns: She/her
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=isabelcruz816r&show_icons=true alt=isabel />
+	<img src=https://github-readme-stats.vercel.app/api?username=isabelcruz816&show_icons=true alt=isabel />
 </p>
 
 
