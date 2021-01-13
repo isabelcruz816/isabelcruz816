@@ -6,7 +6,7 @@
 
 
 ##### I'm Isabel ✨
-I'm a Computer Science student who is passionate about creating technology to elevate quality of life, and building community.
+I'm a passionate computer science student, eager to learn new things and make an impact with technology.
 
 - 🔭 I’m currently working on [Kodda](http://kodda.mx/) as a Software Engineer.
 - 🌱 I’m currently learning Web Development using React JS.
