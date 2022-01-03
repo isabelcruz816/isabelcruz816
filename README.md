@@ -14,6 +14,6 @@ I'm a passionate computer science student, eager to learn new things and make an
 - 📫 How to reach me: send me a message by [LinkedIn](https://www.linkedin.com/in/anaisabelcruz/)
 - 😄 Pronouns: She/her
 
-<p align="center">
+<p align="center" color="pink">
 	<img src=https://github-readme-stats.vercel.app/api?username=isabelcruz816&show_icons=true alt=isabel />
 </p>
